@@ -1,1 +1,1 @@
-"This is the Git Merge Practice Repository!" 
+"updated READme on the main branch!"
